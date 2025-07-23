@@ -21,9 +21,9 @@
 
 ###
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WnMoura&theme=bear" width=750  alt="stats graph"/>
-
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WnMoura&theme=bear" width="550" alt="stats graph" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WnMoura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="325" alt="Github Stats" style="margin-right: 10px; margin-bottom: 10px;"/>
 </div>
 
 ###
