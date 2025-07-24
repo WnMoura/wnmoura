@@ -13,20 +13,18 @@
 
 <h3 align="left"></h3>
 
-[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WnMoura&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/WnMoura/github-readme-activity-graph)
 
 
 
 ###
 
 
-<h2 align="center"></h2>
+<h2 align="center">contribution</h2>
 
 ###
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; flex-wrap: wrap;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WnMoura&theme=bear" width="550" alt="stats graph" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WnMoura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="325" alt="Github Stats" style="margin-right: 10px; margin-bottom: 10px;"/>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WnMoura&theme=bear"/>
 </div>
 
 ###
@@ -35,7 +33,18 @@
 
 ###
 
-<div align="center">
+###
+
+###
+<div></div>
+
+###
+<div align= "center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WnMoura&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="325" alt="Github Stats" style="margin-right: 10px; margin-bottom: 10px;"/>
+</div> 
+
+###
+<div align= "center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="Python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="Java logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="52" alt="pandas logo"  />
@@ -44,9 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
-</div>
-
-###
 
 <h2 align="center">Contatos</h2>
 
