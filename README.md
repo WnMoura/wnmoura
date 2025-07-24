@@ -5,10 +5,10 @@
 ###
 <h2 align="center">Sobre Mim</h2>
 
-🤖 Adoro aprender e criar sistemas Full Stack,Sempre tentando unir o desenvolvimento em Python com estrategias de cibersegurança.\
-💻 Estou constantemente buscando novas tecnologias e aprendendo sobre elas.\
-🤝 Estou aberto a colaborar com outras pessoas em vários projetos, particularmente aqueles relacionados a Sistemas Full Stacks ou áreas que ainda não explorei.
-###
+Full Stack Developer with a passion for Cybersecurity..\
+Use Python as my main tool to build complete systems — from backend to frontend — always focusing on performance, best practices, and security.\
+I’m constantly exploring new technologies and fascinated by how they connect and evolve..\
+Open to new partnerships and collaborative projects, especially in the areas of web development, cybersecurity, and intelligent automations!###
 
 
 <h3 align="left"></h3>
