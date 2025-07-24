@@ -2,19 +2,23 @@
 
 ###
 
-
-
-
 ###
-
 <h2 align="center">Sobre Mim</h2>
-
-###
 
 🤖 Adoro aprender e criar sistemas Full Stack,Sempre tentando unir o desenvolvimento em Python com estrategias de cibersegurança.\
 💻 Estou constantemente buscando novas tecnologias e aprendendo sobre elas.\
 🤝 Estou aberto a colaborar com outras pessoas em vários projetos, particularmente aqueles relacionados a Sistemas Full Stacks ou áreas que ainda não explorei.
 ###
+
+
+<h3 align="left"></h3>
+
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WnMoura&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/WnMoura/github-readme-activity-graph)
+
+
+
+###
+
 
 <h2 align="center"></h2>
 
