@@ -5,7 +5,7 @@
 ###
 <h2 align="center">Sobre Mim</h2>
 
-Full Stack Developer with a passion for Cybersecurity..\
+🤖Full Stack Developer with a passion for Cybersecurity..\
 Use Python as my main tool to build complete systems — from backend to frontend — always focusing on performance, best practices, and security.\
 I’m constantly exploring new technologies and fascinated by how they connect and evolve.\
 Open to new partnerships and collaborative projects, especially in the areas of web development, cybersecurity, and intelligent automations! ###
